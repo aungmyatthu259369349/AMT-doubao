@@ -51,5 +51,5 @@
 
 ## 联系方式
 如果你对本项目感兴趣或有任何疑问，请联系我们：
-- **邮箱**：[your_email@example.com](mailto:your_email@example.com)
-- **微信**：[your_wechat_id]
+- **邮箱**：aungmyatthu259369349@gmail.com
+- **微信**：loveuuforever321
